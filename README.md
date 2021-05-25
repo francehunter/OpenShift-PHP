@@ -1,1 +1,1 @@
-# PHP
+# PHP "Hello, World!" application for OpenShift.
