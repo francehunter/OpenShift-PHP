@@ -18,5 +18,6 @@ registry.access.redhat.com/ubi8/php-74   1-24      576cf8beb829   7 weeks ago   
 
 Глоссарий:
 Pod - докер контейнер, в котором выполяется образ.
+S2I - source-to-image - конвертор исходников в образ докера.
 
 
