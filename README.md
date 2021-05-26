@@ -1,6 +1,7 @@
 PHP "Hello, World!" application for OpenShift.
 
 OpenShift - облачный сервис для сборки и поставки приложений в контексте docker + kubernetes.
+Во вкладке topology есть все доступные апликейшены. Для приложения можно выбрать кол-во подов. Можно балансировать поды горизонтально на основании проб процессора и оперативной памяти.
 
 Пишем простое приложение.
 1) Регистрируем триал, заходим https://console-openshift-console.apps.sandbox.x8i5.p1.openshiftapps.com/add/ns/francehunter-dev
